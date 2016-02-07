@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Misc Personal Stuff]]></title>
+        <description><![CDATA[Misc Personal Stuff]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 19:55:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Build a Remote Security Team]]></title>
+            <description><![CDATA[<article><h1>How to Build a Remote Security Team</h1><p>This will not come as a surprise to many of you, but there's a current shortage of cyber security experts out in the field, which is causing job vacancies all over the country. Over the years, we've seen the demand for cyber security professionals spike dramatically as organizations realize there's a problem, and are actively looking to recruit people for these positions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71f348622a056167e1f3ad3b9f54420d4feb502c.jpg"></article>]]></description>
+            <link>http://www.tripwire.com/state-of-security/off-topic/38133/</link>
+            <guid isPermaLink="false">f606f239-1902-481b-99d4-6206948fd879</guid>
+            <pubDate>Sun, 07 Feb 2016 19:55:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
